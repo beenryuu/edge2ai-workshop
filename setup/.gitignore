@@ -6,3 +6,4 @@ tmp/
 terraform/logs
 parcels/*.parcel*
 csds/*.jar
+terraform/.env
